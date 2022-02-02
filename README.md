@@ -10,3 +10,8 @@ Hosting Static Files
 * Click ... to copy path
 * Run using command below
 * Download html file
+
+## Remember to remove any users, passwords, or PATs before upload here!!!
+
+## Access
+https://blackcloudconcepts.github.io/cdn/[filename]
