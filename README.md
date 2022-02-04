@@ -18,5 +18,8 @@ jupyter nbconvert --to html /PATH/TO/YOUR/NOTEBOOKFILE.ipynb
 
 ## Remember to remove any users, passwords, or PATs before upload here!!!
 
+## Change the background color of the <body>
+  style="background-color: black;"
+
 ## Access
 https://blackcloudconcepts.github.io/cdn/[filename]
