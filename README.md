@@ -9,8 +9,11 @@ Hosting Static Files
 * Open files on the left and upload
 * Click ... to copy path
 * Run using command below
+
 %%shell
+
 jupyter nbconvert --to html /PATH/TO/YOUR/NOTEBOOKFILE.ipynb
+
 * Download html file
 
 ## Remember to remove any users, passwords, or PATs before upload here!!!
